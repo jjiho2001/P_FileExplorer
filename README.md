@@ -7,6 +7,8 @@
     - FileCreater
   - Command check
     - CommandChecker
+  - Delete
+    - FileDeleter
 - Next step
   - OOP
   - GUI

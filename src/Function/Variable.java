@@ -2,7 +2,7 @@ package Function;
 
 import java.io.File;
 
-public interface Variable {
+public class Variable {
 
-	String basic_path = "C://";
+	static String input_path = "C://Users//Jiho Jung//Documents//P_File_explorer/abcde/";
 }

@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class ExplorerStarter implements Variable{
+public class ExplorerStarter extends Variable{
 
 	CommandChecker check = new CommandChecker();
 	

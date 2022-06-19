@@ -8,8 +8,7 @@ public class FileExplorerMain {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		// 파일 list-up
-		System.out.println("실행1");
+		// function start
 		new ExplorerStarter();
 		
 	}
