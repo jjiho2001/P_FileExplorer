@@ -10,7 +10,7 @@ public class FileList extends Variable{
 		
 	}
 	
-	void viewList() {
+	public void viewList() {
 		input = new File(input_path);
 		
 		if(input.exists()) {

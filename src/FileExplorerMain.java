@@ -1,4 +1,4 @@
-import Function.ExplorerStarter;
+import Frame.Viewer;
 
 public class FileExplorerMain {
 
@@ -9,8 +9,7 @@ public class FileExplorerMain {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		// function start
-		new ExplorerStarter();
-		
+		new Viewer();
 	}
 
 }
